@@ -10,5 +10,8 @@ package javaapplication1;
  * @author Laboratorio2Pc12
  */
 public class test {
-    
+    public static void main (String arg [])
+    {
+        System.out.println("Hola mundo");
+    }
 }
